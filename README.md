@@ -48,12 +48,6 @@ Join My **Youtube**: [OxygenLabs](www.youtube.com/@oxygenlabs-rj12)
 
 ## ⚡ GitHub Stats
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Statistics
-
-## 📊 GitHub Statistics
-
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oxygen12-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)
