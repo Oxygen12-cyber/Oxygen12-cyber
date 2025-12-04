@@ -48,18 +48,13 @@ Join My **Youtube**: [OxygenLabs](www.youtube.com/@oxygenlabs-rj12)
 
 ## ⚡ GitHub Stats
 
+## 📊 GitHub Statistics
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oxygen12-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oxygen12-cyber&theme=default&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oxygen12-cyber&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oxygen12-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
-
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=Oxygen12-cyber&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Oxygen12-cyber&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff)
-![Snake animation](https://github.com/Oxygen12-cyber/Oxygen12-cyber/blob/output/github-contribution-grid-snake.svg)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Oxygen12-cyber&theme=github-light&hide_border=true)
 
 </div>
 ## 📫 Connect with Me
