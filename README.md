@@ -57,6 +57,6 @@ Join My **Youtube**: [OxygenLabs](www.youtube.com/@oxygenlabs-rj12)
 
 ## 📫 Connect with Me
 
-- 🖇️[Linkedin](www.linkedin.com/in/oxygenrj12)
-- 🎥 [Youtube](www.youtube.com/@oxygenlabs-rj12)
+- 🖇️ **Linkedin**: www.linkedin.com/in/oxygenrj12
+- 🎥 **Youtube**: www.youtube.com/@oxygenlabs-rj12
 - 📧 **Email**: adeolaodunjo32@gmail.com
