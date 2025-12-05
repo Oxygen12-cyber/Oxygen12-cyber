@@ -47,19 +47,16 @@ Join My **Youtube**: [OxygenLabs](www.youtube.com/@oxygenlabs-rj12)
 
 
 ## ⚡ GitHub Stats
-
-## 📊 GitHub Statistics
-
 <div align="center">
-
+  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oxygen12-cyber&theme=default&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Oxygen12-cyber&theme=github-light&hide_border=true)
 
 </div>
+
 ## 📫 Connect with Me
 
-<p align="left">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/adeola-odunjo" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeola-odunjo" height="30" width="40" /></a>
-<a href="mailto:adeolaodunjo32@gmail.com" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="adeolaodunjo32@gmail.com" height="30" width="40" /></a>
-</p>
+- 🖇️[Linkedin](www.linkedin.com/in/oxygenrj12)
+- 🎥 [Youtube](www.youtube.com/@oxygenlabs-rj12)
+- 📧 **Email**: adeolaodunjo32@gmail.com
